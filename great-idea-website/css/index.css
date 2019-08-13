@@ -64,3 +64,141 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container{
+	width: 100%;
+	margin:0 auto;
+}
+.section1{
+	display: inline-block;
+	left: 300px;
+	margin-top:40px;
+	z-index: 100;
+	margin-left:100px;
+	width: 100%;
+	text-align: center;
+    font-size:35px;
+}
+p{
+	display:inline-block;
+	padding:5px;
+	width:200px;
+
+	
+}
+.header-img{
+	text-align:right;
+   display: inline-block;
+   margin-bottom:50px;
+   margin-left: 50px;
+  
+   
+}
+.section2{
+	display: inline-block;
+	border-top: 1px solid black;
+	margin-left: 15px;
+	text-align: center;
+	margin-top 15px;
+	
+	
+}
+
+
+.button{
+	display:button;
+}
+*{
+	
+	background-color:white;
+}
+/*.header-2{
+	text-align: center;
+	font-size: 20px;
+	height:20px
+}*/
+.section2-1{
+	
+	padding-top: 36px;	
+	display:inline-block;
+	width: 200px;
+	
+
+}
+.section2-2{
+	
+	padding-top: 36px;	
+	display:inline-block;
+	
+	
+}
+
+.header-2{
+  display: block;
+ 
+}
+
+.header-3{
+	margin-left:600px;
+	font-size:60px;
+	display: inline-block;
+}
+.middle-img {
+	text-align:center;
+	
+
+}
+.section3{
+	display: inline-block;
+	margin:10px;
+	
+	
+}
+.button {
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 46px;
+
+  }
+  
+.logo{
+width: 200px;
+border: 1px solid red;
+position: relative;
+left: 690px;
+z-index: 100000000px;
+vertical-align: 30px;
+bottom:45px;
+}
+.maincontent{
+text-align: center;
+
+}
+.section2-3{
+display: inline-block;	
+}
+.section2-4{
+display: inline-block;
+
+}
+.section2-5{
+	display: inline-block;	
+}
+.section2-5{
+	display: inline-block;
+}
+/*.section3{
+
+}*/
+.damnit{
+	position: absolute;
+	margin-left:88px
+/*services lable wouldnt move so i moved it indivdually*/
+}
+.footer{
+	border-top:1px solid black;
+	margin-top:10px;
+}
