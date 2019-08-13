@@ -203,5 +203,9 @@ display: inline-block;
 /*services lable wouldnt move so i moved it indivdually*/
 }
 .footer{
+display: inline-block;
 	margin:10px 0 0 0;
+}
+.closing{
+	text-align: center;
 }
